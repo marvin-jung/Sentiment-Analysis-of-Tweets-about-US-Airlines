@@ -1,4 +1,4 @@
 # Sentiment Analysis of Tweets about US Airlines
 
-In order to start, you download it and then type - streamlit run app.py
+To start the interactive web page, you download .py and .csv file from github then enter - streamlit run app.py
 
